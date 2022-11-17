@@ -1,0 +1,23 @@
+{
+    "pequena": [
+        { "id" :1, "tipo" : "Minimalista", "valor": 150, "tamanho": "7cm"},
+        { "id" :2, "tipo" : "Do Catálogo", "valor": 250, "tamanho": "10cm"},
+        { "id" :3, "tipo" : "Old School", "valor": 350, "tamanho": "10cm"},
+        { "id" :4, "tipo" : "Realismo", "valor": 350, "tamanho": "10cm"}
+    ],
+
+    "media" : [
+        { "id" :1, "tipo" : "Minimalista", "valor": 600, "tamanho": "20cm"},
+        { "id" :2, "tipo" : "Do Catálogo", "valor": 650, "tamanho": "25cm"},
+        { "id" :3, "tipo" : "Old School", "valor": 700, "tamanho": "27cm"},
+        { "id" :4, "tipo" : "Realismo", "valor": 800, "tamanho": "30cm"}
+    ],
+
+    "grande" : [
+        { "id" :1, "tipo" : "Minimalista", "valor": 1100, "tamanho": "40cm"},
+        { "id" :2, "tipo" : "Do Catálogo", "valor": 1200, "tamanho": "50cm"},
+        { "id" :3, "tipo" : "Old School", "valor": 1300, "tamanho": "55cm"},
+        { "id" :4, "tipo" : "Realismo", "valor": 1500, "tamanho": "60cm"}
+    ]
+    
+}
